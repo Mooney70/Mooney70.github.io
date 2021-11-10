@@ -60,3 +60,7 @@ h1 {
     justify-content: flex-end;
     grid-flex-end: 2;
 }
+#canvas {
+    display: flex;
+    justify-content: flex-end;
+}
